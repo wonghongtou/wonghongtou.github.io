@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -53,3 +54,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+theme: jekyll-theme-cayman
+>>>>>>> cf94d4c6f71fe13b29ce508f6fe5b167a7d9b902
